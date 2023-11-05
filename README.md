@@ -1,4 +1,4 @@
-//To start the applicaiton
+------------- To start the applicaiton -------------
 
 1. clone the repository
 
