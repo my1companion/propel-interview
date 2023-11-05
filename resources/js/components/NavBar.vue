@@ -2,7 +2,7 @@
 <header class="py-3 mb-3 border-bottom fixed-top bg-white">
     <div class="container-fluid d-grid gap-3 align-items-center" style="grid-template-columns: 1fr 2fr;">
       <div class="">
-        <a class="btn bg-light text-start col-md-6 p-2"> 
+        <a class="btn bg-light text-start col-md-5 p-2"> 
             <span class="text-primary"><font-awesome-icon icon="fa-solid fa-star" /></span>
             GirlsCanCode
         </a>
